@@ -12,13 +12,13 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://rajatdixit.github.io/
-baseurl: /resume/
+baseurl: /website/
 title: Rajat Dixit
 author: Rajat Dixit
 description: Portfolio
 avatar: profile.png
 email: contact@rajatdixit.ca
-github: rajatdixit/resume # username
+github: rajatdixit/website # username
 #twitter: username
 linkedin: dixitrajat
 #stackoverflow: username   #e.g: users/2735833/proton1h1
