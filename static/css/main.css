@@ -3,7 +3,7 @@
 html,
 body {
   height: 100%;
-  background-color: #DFE2DB;
+  background-color: #ff9999; /*DFE2DB - Old colour Grey*/
   font-family: 'Source Sans Pro', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
   border-top: 3px solid #cc0000; /*--old color 27A822  */ 
