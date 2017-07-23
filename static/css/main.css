@@ -88,8 +88,8 @@ body {
 -------------------------------------------------- */
 
 .container {
-  width: auto;
-  max-width: 800px;
+  width: 1400px;
+  max-width: 1400px;
   text-align: center;
 }
 .container .text-muted {
