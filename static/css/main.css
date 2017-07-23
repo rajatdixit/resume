@@ -106,6 +106,9 @@ body {
  height: auto;
  max-width: 100%;
 }
+.img-div {
+ max-width: 100%;
+}
 .panel-default h4 {
   text-align: left;
   line-height: 24px;
