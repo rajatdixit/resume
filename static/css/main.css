@@ -189,7 +189,7 @@ div.footer{
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
-  position: relative;
+  position: fixed; /* from relative to fixed */
   margin: auto;
 }
 
