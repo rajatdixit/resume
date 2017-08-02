@@ -231,7 +231,7 @@ body {font-family: Verdana,sans-serif;}
 }
 
 /*Gradient Attempt 2*/
-#gradient {
+.gradient {
     position: absolute;
     z-index: 2;
     right: 0;
