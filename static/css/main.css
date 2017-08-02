@@ -219,7 +219,7 @@ body {font-family: Verdana,sans-serif;}
 }
 
 /* Transparent box for captions */
-div.transbox {
+.transbox {
   margin: 100px 8px 8px 8px;
   background-color: #f9f000;
   border: 1px solid black;
