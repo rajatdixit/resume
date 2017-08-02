@@ -218,6 +218,15 @@ body {font-family: Verdana,sans-serif;}
   top: 0;
 }
 
+/* Transparent box for captions */
+div.transbox {
+  margin: 100px 8px 8px 8px;
+  background-color: #f9f000;
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
 /* The dots/bullets/indicators */
 .dot {
   height: 13px;
