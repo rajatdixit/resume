@@ -220,11 +220,14 @@ body {font-family: Verdana,sans-serif;}
 
 /* Transparent box for captions */
 .transbox {
-  padding: 100px 8px 8px 8px;
-  background-color: #f9f000;
+  padding: 8px 12px;
+  color: #f9f000;
   /*border: 2px solid green;*/
   opacity: 0.6;
   filter: alpha(opacity=60); /* For IE8 and earlier */
+  position :absolute;
+  bottom : 8px;
+  width: 100%;
 }
 
 /* The dots/bullets/indicators */
