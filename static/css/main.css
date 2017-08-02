@@ -220,9 +220,9 @@ body {font-family: Verdana,sans-serif;}
 
 /* Transparent box for captions */
 .transbox {
-  margin: 100px 8px 8px 8px;
+  padding: 100px 8px 8px 8px;
   background-color: #f9f000;
-  border: 2px solid green;
+  /*border: 2px solid green;*/
   opacity: 0.6;
   filter: alpha(opacity=60); /* For IE8 and earlier */
 }
